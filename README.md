@@ -66,9 +66,3 @@ These parameters were used to train the CNN model to optimize performance on the
 - Other Python packages as listed in `requirements.txt`
 
 ***
-
-
-
-***
-
-This README clearly highlights the CNN-based gesture recognition as the primary focus while mentioning the OpenCV-based real-time gesture code as an additional bonus feature.
